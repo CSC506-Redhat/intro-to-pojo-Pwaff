@@ -27,5 +27,6 @@ A pull request(PR) is a request made to merge changes from the branch (in a fork
 .
 .
 .
+.
 
 Overall it was a good read.
